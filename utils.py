@@ -5,8 +5,8 @@ import csv
 
 SESSION_STORAGE_PATH = "session_storage.json"
 
-username = "igorgrecia@gmail.com"
-password = "9Woodlandacres>"
+username = ""
+password = ""
 year = "2025"
 base_url = "https://eventlink.wizards.com"
 
